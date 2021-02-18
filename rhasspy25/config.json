@@ -17,7 +17,7 @@
     ],
     "options": {
         "profile_dir": "/share/rhasspy/profiles",
-        "profile_name": "en",
+        "profile_name": "de",
         "ssl": false,
         "certfile": "cert",
         "keyfile": "key",
